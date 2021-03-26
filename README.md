@@ -1,2 +1,3 @@
-# utils
-Simple scripts useful for tasks
+# Utils Repository
+
+Useful scripts for day to day
